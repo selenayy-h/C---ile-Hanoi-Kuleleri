@@ -1,7 +1,4 @@
-//AD:SELENAY 
-//SOYAD:HUR 
-//ÖĞRENCİ NUMARASI: 23080103374 
-//ÖĞRETİM GÖREVLİSİ:Dr. Öğr. Üyesi SELMAN HIZAL
+
 #include <iostream>
 #include <chrono>
 #include <stack>
